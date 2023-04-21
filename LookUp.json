@@ -4211,6 +4211,14 @@
         "symbol": "BRKR",
         "Exchange": "NASDAQ"
     },
+     {
+        "symbol": "BRK.A",
+        "Exchange": "NYSE"
+    },
+     {
+        "symbol": "BRK.B",
+        "Exchange": "NASDAQ"
+    },
     {
         "symbol": "BRLI",
         "Exchange": "NASDAQ"

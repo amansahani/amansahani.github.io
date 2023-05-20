@@ -1,4 +1,4 @@
-import{a2 as e,j as t,a3 as r}from"./index-ed88989a.js";const n=`# Docs\r
+import{a2 as e,j as t,a3 as r}from"./index-66dd5fa2.js";const n=`# Docs\r
 \r
 ### Math\r
 \r
